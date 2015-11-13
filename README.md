@@ -1,7 +1,7 @@
 # Dev.D3
 A simple Memory Based Diablo3 Bot
 
-# Credits:
+## Credits:
 
 * DarthTon for the public framework which helped when getting started with all of this.
 * enigma32 for Enigma.D3 framework and a lot of work reversing D3.
