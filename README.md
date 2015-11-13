@@ -7,7 +7,9 @@ A Memory Based Diablo3 Bot
 * CrEEzz for Nav.3D great navigation system based on NavMesh.
 
 
-#public static readonly Version SupportedVersion = new Version(2, 3, 0, 33567);
+# Offsets Version(2, 3, 0, 33567)
+
+public static readonly Version SupportedVersion = new Version(2, 3, 0, 33567);
 
 			public const int SnoGroupInitializers = 0x01B71ABC - 4;
 			public const int SnoGroupByCode = 0x01DCD048;
