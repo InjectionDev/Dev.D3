@@ -1,5 +1,5 @@
 # Dev.D3
-A simple Memory Based Diablo3 Bot
+A Memory Based Diablo3 Bot
 
 ### Credits:
 * DarthTon for the public framework which helped when getting started with all of this.
